@@ -1,0 +1,27 @@
+# KiCad
+*.kicad_sch-bak
+*.kicad_pcb-bak
+*-backups/
+autoplace/
+*.pro.user
+
+# Pliki STM32CubeIde
+Debug/
+Release/
+*.elf
+*.hex
+*.bin
+*.map
+*.list
+*.su
+*.cyclo
+
+# Pliki systemu
+.DS_Store
+Thumbs.db
+
+# IDE
+.settings/
+.project
+.cproject
+*.launch
